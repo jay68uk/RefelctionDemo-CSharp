@@ -1,0 +1,15 @@
+C:\Users\jaygi\source\repos\RefelctionDemo\RefelctionDemoConsole\bin\Debug\net7.0\RefelctionDemoConsole.exe
+C:\Users\jaygi\source\repos\RefelctionDemo\RefelctionDemoConsole\bin\Debug\net7.0\RefelctionDemoConsole.deps.json
+C:\Users\jaygi\source\repos\RefelctionDemo\RefelctionDemoConsole\bin\Debug\net7.0\RefelctionDemoConsole.runtimeconfig.json
+C:\Users\jaygi\source\repos\RefelctionDemo\RefelctionDemoConsole\bin\Debug\net7.0\RefelctionDemoConsole.dll
+C:\Users\jaygi\source\repos\RefelctionDemo\RefelctionDemoConsole\bin\Debug\net7.0\RefelctionDemoConsole.pdb
+C:\Users\jaygi\source\repos\RefelctionDemo\RefelctionDemoConsole\obj\Debug\net7.0\RefelctionDemoConsole.csproj.AssemblyReference.cache
+C:\Users\jaygi\source\repos\RefelctionDemo\RefelctionDemoConsole\obj\Debug\net7.0\RefelctionDemoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaygi\source\repos\RefelctionDemo\RefelctionDemoConsole\obj\Debug\net7.0\RefelctionDemoConsole.AssemblyInfoInputs.cache
+C:\Users\jaygi\source\repos\RefelctionDemo\RefelctionDemoConsole\obj\Debug\net7.0\RefelctionDemoConsole.AssemblyInfo.cs
+C:\Users\jaygi\source\repos\RefelctionDemo\RefelctionDemoConsole\obj\Debug\net7.0\RefelctionDemoConsole.csproj.CoreCompileInputs.cache
+C:\Users\jaygi\source\repos\RefelctionDemo\RefelctionDemoConsole\obj\Debug\net7.0\RefelctionDemoConsole.dll
+C:\Users\jaygi\source\repos\RefelctionDemo\RefelctionDemoConsole\obj\Debug\net7.0\refint\RefelctionDemoConsole.dll
+C:\Users\jaygi\source\repos\RefelctionDemo\RefelctionDemoConsole\obj\Debug\net7.0\RefelctionDemoConsole.pdb
+C:\Users\jaygi\source\repos\RefelctionDemo\RefelctionDemoConsole\obj\Debug\net7.0\RefelctionDemoConsole.genruntimeconfig.cache
+C:\Users\jaygi\source\repos\RefelctionDemo\RefelctionDemoConsole\obj\Debug\net7.0\ref\RefelctionDemoConsole.dll
